@@ -1,0 +1,9 @@
+@layer utilities {
+  .teaser--actions\:justify-start .cmp-teaser__action-container { @apply justify-start; }
+  .teaser--actions\:justify-start .cmp-teaser__action-container { @apply justify-start; }
+  .teaser--actions\:justify-end .cmp-teaser__action-container { @apply justify-end; }
+  .teaser--actions\:justify-center .cmp-teaser__action-container { @apply justify-center; }
+  .teaser--actions\:justify-between .cmp-teaser__action-container { @apply justify-between; }
+  .teaser--actions\:justify-around .cmp-teaser__action-container { @apply justify-around; }
+  .teaser--actions\:justify-evenly .cmp-teaser__action-container { @apply justify-evenly; }
+}

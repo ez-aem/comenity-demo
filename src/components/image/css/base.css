@@ -1,0 +1,7 @@
+@layer base {
+  div.image { @apply mb-0; }
+  .cmp-image {}
+  .cmp-image__link {}
+  .cmp-image__image { @apply w-auto; }
+  .cmp-image__title {}
+}

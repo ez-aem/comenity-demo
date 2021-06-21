@@ -1,0 +1,7 @@
+@layer utilities {
+  .teaser--image\:object-contain .cmp-image__image { @apply object-contain; }
+  .teaser--image\:object-cover .cmp-image__image { @apply object-cover; }
+  .teaser--image\:object-fill .cmp-image__image { @apply object-fill; }
+  .teaser--image\:object-none .cmp-image__image { @apply object-none; }
+  .teaser--image\:object-scale-down .cmp-image__image { @apply object-scale-down; }
+}

@@ -1,0 +1,5 @@
+@layer utilities {
+  .container.form-container--display\:default .cmp-form { @apply block; }
+  .container.form-container--display\:flex .cmp-form { @apply flex; }
+  .container.form-container--display\:grid .cmp-form { @apply grid; }
+}

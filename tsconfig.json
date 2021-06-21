@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "CommonJS",
+    "baseUrl": ".",
+    "removeComments": true,
+    "allowJs": true,
+    "preserveConstEnums": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "paths": {
+      "@aem-blueprint/*": ["./aem-blueprint/*"]
+    },
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "include": [ "./src/**/*.ts" ]
+}

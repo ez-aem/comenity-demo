@@ -1,0 +1,85 @@
+{
+  "core/wcm/components/accordion/v1/accordion": {
+    "content": {}
+  },
+  "core/wcm/components/breadcrumb/v2/breadcrumb": {
+    "content": {}
+  },
+  "core/wcm/components/button/v1/button": {
+    "content": {}
+  },
+  "core/wcm/components/carousel/v1/carousel": {
+    "content": {}
+  },
+  "core/wcm/components/container/v1/container": {
+    "root": {},
+    "main-full-width": {},
+    "main-grid-width": {},
+    "content": {},
+    "xf_root": {}
+  },
+  "core/wcm/components/contentfragment/v1/contentfragment": {
+    "content": {}
+  },
+  "core/wcm/components/contentfragmentlist/v1/contentfragmentlist": {
+    "content": {}
+  },
+  "core/wcm/components/download/v1/download": {
+    "content": {}
+  },
+  "core/wcm/components/embed/v1/embed": {
+    "content": {}
+  },
+  "core/wcm/components/experiencefragment/v1/experiencefragment": {
+    "header": {},
+    "footer": {}
+  },
+  "core/wcm/components/form/container/v2/container": {
+    "content": {}
+  },
+  "core/wcm/components/form/button/v2/button": {
+    "content": {}
+  },
+  "core/wcm/components/form/options/v2/options": {
+    "content": {}
+  },
+  "core/wcm/components/form/text/v2/text": {
+    "content": {}
+  },
+  "core/wcm/components/image/v2/image": {
+    "content": {}
+  },
+  "core/wcm/components/languagenavigation/v1/languagenavigation": {
+    "content": {}
+  },
+  "core/wcm/components/list/v2/list": {
+    "content": {}
+  },
+  "core/wcm/components/navigation/v1/navigation": {
+    "content": {}
+  },
+  "core/wcm/components/pdfviewer/v1/pdfviewer": {
+    "content": {}
+  },
+  "core/wcm/components/progressbar/v1/progressbar": {
+    "content": {}
+  },
+  "core/wcm/components/search/v1/search": {
+    "content": {}
+  },
+  "core/wcm/components/separator/v1/separator": {
+    "content": {}
+  },
+  "core/wcm/components/tabs/v1/tabs": {
+    "content": {}
+  },
+  "core/wcm/components/teaser/v1/teaser": {
+    "content": {}
+  },
+  "core/wcm/components/text/v2/text": {
+    "content": {}
+  },
+  "core/wcm/components/title/v2/title": {
+    "content": {}
+  },
+}

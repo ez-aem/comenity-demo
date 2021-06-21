@@ -1,0 +1,5 @@
+@layer utilities {
+  .image.text-left .cmp-image__image { @apply inline-block; }
+  .image.text-center .cmp-image__image { @apply inline-block; }
+  .image.text-right .cmp-image__image { @apply inline-block; }
+}

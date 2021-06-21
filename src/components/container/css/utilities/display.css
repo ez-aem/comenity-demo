@@ -1,0 +1,5 @@
+@layer utilities {
+  .container\:block > .cmp-container { @apply block; }
+  .container\:flex > .cmp-container { @apply flex; }
+  .container\:grid > .cmp-container { @apply grid; }
+}

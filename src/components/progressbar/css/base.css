@@ -1,0 +1,8 @@
+@layer base {
+  .cmp-progressbar {
+    @apply flex overflow-hidden border rounded bg-light-gray border-fill-muted;
+  }
+  .cmp-progressbar__label--completed,
+  .cmp-progressbar__label--remaining { @apply hidden }
+  .cmp-progressbar__bar { @apply h-4 text-transparent bg-fill; }
+}

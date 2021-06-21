@@ -1,0 +1,16 @@
+@layer utilities {
+  [class*=teaser--title] .cmp-teaser__title { @apply font-semibold; }
+  .teaser--title\:xs .cmp-teaser__title { @apply text-xs; }
+  .teaser--title\:sm .cmp-teaser__title { @apply text-sm; }
+  .teaser--title\:base .cmp-teaser__title { @apply text-base; }
+  .teaser--title\:lg .cmp-teaser__title { @apply text-lg; }
+  .teaser--title\:xl .cmp-teaser__title { @apply text-xl; }
+  .teaser--title\:2xl .cmp-teaser__title { @apply text-2xl; }
+  .teaser--title\:3xl .cmp-teaser__title { @apply text-3xl; }
+  .teaser--title\:4xl .cmp-teaser__title { @apply text-4xl; }
+  .teaser--title\:5xl .cmp-teaser__title { @apply text-5xl; }
+  .teaser--title\:6xl .cmp-teaser__title { @apply text-6xl; }
+  .teaser--title\:7xl .cmp-teaser__title { @apply text-7xl; }
+  .teaser--title\:8xl .cmp-teaser__title { @apply text-8xl; }
+  .teaser--title\:9xl .cmp-teaser__title { @apply text-9xl; }
+}

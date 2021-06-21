@@ -1,0 +1,5 @@
+@layer base {
+  .xf-web-container { @apply font-sans; }
+  .cmp-experiencefragment {}
+  /* .cmp-experiencefragment--<name> {} */
+}

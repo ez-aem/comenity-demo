@@ -1,0 +1,10 @@
+@layer utilities {
+  .container.form-container--display\:default .cmp-form > .aem-GridColumn { @apply block; }
+  .container.form-container--display\:flex .cmp-form > .aem-GridColumn { @apply flex w-auto; }
+  .container.form-container--display\:grid .cmp-form > .aem-GridColumn { @apply grid w-auto; }
+
+  .container.form-container--display\:flex .cmp-form > .aem-GridColumn:before,
+  .container.form-container--display\:flex .cmp-form > .aem-GridColumn:after,
+  .container.form-container--display\:grid .cmp-form > .aem-GridColumn:before,
+  .container.form-container--display\:grid .cmp-form > .aem-GridColumn:after { content: none; }
+}

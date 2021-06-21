@@ -1,0 +1,6 @@
+@layer utilities {
+  div[class*=var\:grid-cols] > .cmp-container { @apply grid; }
+  @screen md {
+    div[class*=var\:grid-cols] > .cmp-container { grid-template-columns: var(--grid-template-columns); }
+  }
+}

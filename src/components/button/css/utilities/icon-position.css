@@ -1,0 +1,4 @@
+@layer utilities {
+  .button--icon-position\:only .cmp-button__text { @apply sr-only; }
+  .button--icon-position\:after .cmp-button { @apply flex-row-reverse space-x-reverse; }
+}
